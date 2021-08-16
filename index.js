@@ -21,8 +21,8 @@ async function handleRequest(request) {
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="It is a VOOT Online Select streamer with all features">
-    <meta name="author" content="Avishkar Patil">
-    <meta name="copyright" content="This Created by Avishkar Patil">
+    <meta name="author" content="Ironman Cloud">
+    <meta name="copyright" content="This Created by Ironman Cloud ☁️">
     <meta name="robots" content="all" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="https://www.voot.com/favicon.ico">
@@ -61,7 +61,7 @@ Stream
 
 <footer class="footer">
             <div class="container">
-                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://avipatilweb.me/">© 2021 Avishkar Patil</a></span>
+                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://telegram.me/ironman_cloud">© 2021 Ironman Cloud ☁️</a></span>
             </div>
         </footer>
 </body>
@@ -97,8 +97,8 @@ Stream
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="It is a VOOT Online Select streamer with all features">
-    <meta name="author" content="Avishkar Patil">
-    <meta name="copyright" content="This Created by Avishkar Patil">
+    <meta name="author" content="Ironman">
+    <meta name="copyright" content="This Created by Ironman Cloud ☁️">
     <meta name="robots" content="all" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="https://www.voot.com/favicon.ico">
@@ -138,7 +138,9 @@ Stream
 
 <footer class="footer">
             <div class="container">
-                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://avipatilweb.me/">© 2021 Avishkar Patil</a></span>
+                <span class="copyright"><a style="text-decoration: none; color: #9C9AB3;" href="https://telegram.me/ironman_cloud">© 2021 Ironman Cloud ☁️
+
+</a></span>
             </div>
         </footer>
 </body>
@@ -152,7 +154,7 @@ Stream
                     "Content-Type": "text/html",
                     "Cache-Control": "no-cache, no-store, must-revalidate",
                     "Access-Control-Allow-Origin": "*",
-                    "Made-By": "https://github.com/avipatilpro/Voot_Player/"
+                    "Made-By": "https://github.com/oktest145"
             })
         })
 
@@ -182,7 +184,7 @@ async function template(title, img, vurl, vID, desc) {
     return `<html>
 
 <head>
-  <title>${title} | Avishkar Patil</title>
+  <title>${title} | Ironman Cloud ☁️</title>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
